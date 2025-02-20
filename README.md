@@ -3,26 +3,28 @@
 # Hello, I'm Mario
 <a href="https://www.linkedin.com/in/mario-t-5513b02b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I began my professional journey at the age of 14 as an apprentice home inspector, developing my expertise in residential and commercial property evaluation. After securing my home inspector's license, I became a lead inspector with one of the top inspection companies in Tallahassee, Florida, while also pursuing my studies at Florida State University (FSU).
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Alongside my real estate career, I have maintained a deep passion for technology, particularly cybersecurity analysis, engineering, and penetration testing. I have dedicated myself to mastering various programming languages and operating systems, continuously expanding my skill set. My goal is to transition into a cybersecurity-focused role, specifically as a Security Operations Center (SOC) Tier 1 Analyst, where I can apply my knowledge and contribute to the security landscape.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a strong foundation in cybersecurity. I am actively seeking opportunities to work in a SOC environment as a Tier 1 Analyst/Engineer, where I can leverage my skills in security monitoring, incident response, and automation to help protect organizations from cyber threats.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associations         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Operating Systems (CLI Proficiency) | Mac, Windows, Linux, AlmaLinux, RHEL, CentOS, Debian, Ubuntu, Kali
+| Programming & Scripting | Bash, Expect, C++, C, Python, Java, JavaScrip|
+| Monitoring & Security Tools | Zabbix, SNMP, Cradlepoints, Wazuh, Rancid, Suricata, ClamAV, Splunk|
+| Hypervisors & Virtualization | Linode, Parallels, VMware Fusion Pro, VMware Workstation, VirtualBox, UTM, Azure|
+| Text Editors | VI, Nano|
+| Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents|
+| VM Deployment & Configuration | SOC Automation Lab|
+| SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM|
+| Security Log Analysis & Incident Response | Monitoring Wazuh logs and navigating the web interface|
+| Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for Log Rotation & ASA Config Backup using Rancid|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
