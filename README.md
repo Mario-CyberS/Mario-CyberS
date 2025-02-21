@@ -3,12 +3,12 @@
 # Hello, I'm Mario
 <a href="https://www.linkedin.com/in/mario-t-5513b02b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I began my professional journey at the age of 14 as an apprentice home inspector, developing my expertise in residential and commercial property evaluation. After securing my home inspector's license, I became a lead inspector with one of the top inspection companies in Tallahassee, Florida, while also pursuing my studies at Florida State University (FSU).
+I began my professional journey at the age of 14 as an apprentice home inspector, developing my expertise in residential and commercial property inspection. After securing my home inspector's license, I became a lead inspector with one of the top inspection companies in Tallahassee, Florida, while also pursuing my studies at Florida State University (FSU).
 
-Alongside my real estate career, I have maintained a deep passion for technology, particularly cybersecurity analysis, engineering, and penetration testing. I have dedicated myself to mastering various programming languages and operating systems, continuously expanding my skill set. My goal is to transition into a cybersecurity-focused role, specifically as a Security Operations Center (SOC) Tier 1 Analyst, where I can apply my knowledge and contribute to the security landscape.
+Alongside my property inspection career, I have maintained a deep passion for technology, particularly computer systems related to cyber security analysis, engineering, and penetration testing. I have dedicated myself to mastering various programming languages and operating systems, continuously expanding my skill set, and never finished learning. My goal is to transition into a cyber security-focused role, specifically as a Tier 1 Cyber Security Engineer/Analyst, where I can apply my knowledge and contribute to the security landscape.
 
 ## Objective
-My journey in computer science has led me to develop a strong foundation in cybersecurity. I am actively seeking opportunities to work in a SOC environment as a Tier 1 Analyst/Engineer, where I can leverage my skills in security monitoring, incident response, and automation to help protect organizations from cyber threats.
+My journey in computer science has led me to develop a strong foundation in cyber security. I am actively seeking opportunities to work in a cyber department environment as a Tier 1 Cyber Security Analyst/Engineer, where I can leverage my skills in security monitoring, incident response, and automation to help protect organizations from cyber threats.
 
 ## Skills
 
