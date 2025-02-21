@@ -11,20 +11,18 @@ Alongside my real estate career, I have maintained a deep passion for technology
 My journey in computer science has led me to develop a strong foundation in cybersecurity. I am actively seeking opportunities to work in a SOC environment as a Tier 1 Analyst/Engineer, where I can leverage my skills in security monitoring, incident response, and automation to help protect organizations from cyber threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associations         |
 |-----------------------------------------------|----------------------------|
-| Operating Systems (CLI Proficiency) | Mac, Windows, Linux, AlmaLinux, RHEL, CentOS, Debian, Ubuntu, Kali
-| Programming & Scripting | Bash, Expect, C++, C, Python, Java, JavaScrip|
-| Monitoring & Security Tools | Zabbix, SNMP, Cradlepoints, Wazuh, Rancid, Suricata, ClamAV, Splunk|
-| Hypervisors & Virtualization | Linode, Parallels, VMware Fusion Pro, VMware Workstation, VirtualBox, UTM, Azure|
-| Text Editors | VI, Nano|
-| Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents|
-| VM Deployment & Configuration | SOC Automation Lab|
+| Operating Systems (CLI Proficiency) | Mac - Windows - Linux - AlmaLinux - RHEL - CentOS - Debian - Ubuntu - Kali
+| Programming & Scripting | Bash - Expect - C++ - C - Python - Java - JavaScrip|
+| Monitoring & Security Tools | Zabbix - SNMP - Cradlepoints - Wazuh - Rancid - Suricata - ClamAV - Splunk|
+| Hypervisors/Virtualization & VMs Deployment/Configuration| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VirtualBox - UTM - Azure|
+| Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
 | SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM|
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs and navigating the web interface|
 | Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for Log Rotation & ASA Config Backup using Rancid|
+| Text Editors | VI, Nano|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
