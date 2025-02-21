@@ -45,5 +45,11 @@ My journey in computer science has led me to develop a strong foundation in cybe
     <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### CLOUD
+<div>
+    <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
+
+
 ## Projects
 - Wazuh SIEM Deployment in Linux
