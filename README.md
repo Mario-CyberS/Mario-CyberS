@@ -52,4 +52,4 @@ My journey in computer science has led me to develop a strong foundation in cybe
 
 
 ## Projects
-- Wazuh SIEM Deployment in Linux
+- Wazuh SIEM Deployment in Ubuntu 22.04
