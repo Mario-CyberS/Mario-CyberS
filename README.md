@@ -1,6 +1,6 @@
 # Mario-Cyber
  My Portfolio
-# Hello, I'm Mario
+# Hello, I'm Mario T
 <a href="https://www.linkedin.com/in/mario-t-5513b02b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I began my professional journey at the age of 14 as an apprentice home inspector, developing my expertise in residential and commercial property inspection. After securing my home inspector's license, I became a lead inspector with one of the top inspection companies in Tallahassee, Florida, while also pursuing my studies at Florida State University (FSU).
