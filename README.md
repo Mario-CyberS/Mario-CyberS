@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a strong foundation in cybe
 | Skill                                         | Associations         |
 |-----------------------------------------------|----------------------------|
 | Operating Systems (CLI Proficiency) | Mac - Windows - Linux - AlmaLinux - RHEL - CentOS - Debian - Ubuntu - Kali
-| Programming & Scripting | Bash - Expect - C++ - C - Python - Java - JavaScrip|
+| Programming & Scripting | Bash - Expect - C++ - C - Python - Java - JavaScript|
 | Monitoring & Security Tools | Zabbix - SNMP - Cradlepoints - Wazuh - Rancid - Suricata - ClamAV - Splunk|
 | Hypervisors/Virtualization & VMs Deployment/Configuration| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VirtualBox - UTM - Azure|
 | Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
