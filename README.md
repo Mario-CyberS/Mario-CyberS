@@ -10,6 +10,11 @@ Alongside my property inspection career, I have maintained a deep passion for te
 ## Objective
 My journey in computer science has led me to develop a strong foundation in cyber security. I am actively seeking opportunities to work in a cyber department environment as a Tier 1 Cyber Security Analyst/Engineer, where I can leverage my skills in security monitoring, incident response, and automation to help protect organizations from cyber threats.
 
+## 🚀 Projects  
+
+### 🔹 [Deploying Wazuh SIEM](https://github.com/Mario-CyberS/Deploying-Wazuh-SIEM)  
+**Description:** This project demonstrates the step-by-step process of setting up a **Wazuh SIEM Manager** on an **AlmaLinux VM** using **VMware Workstation 17**. It includes installing Almalinux 9.5 minimal iso, installing VMware workstation, deploying Alma VM, installing Wazuh, and accessing the Wazuh Web UI for real-time security monitoring.
+
 ## Skills
 
 | Skill                                         | Associations         |
