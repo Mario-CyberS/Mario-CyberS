@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a strong foundation in cybe
 | Operating Systems (CLI Proficiency) | Mac - Windows - Linux - AlmaLinux - RHEL - CentOS - Debian - Ubuntu - Kali
 | Programming & Scripting | Bash - Expect - C++ - C - Python - Java - JavaScript|
 | Monitoring & Security Tools | Zabbix - SNMP - Cradlepoints - Wazuh - Rancid - Suricata - ClamAV - Splunk|
-| Hypervisors/Virtualization & VMs Deployment/Configuration| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VirtualBox - UTM - Azure|
+| Hypervisors/Virtualization & VMs Deployment/Configuration| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VirtualBox - Azure|
 | Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
 | SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM|
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs and navigating the web interface|
