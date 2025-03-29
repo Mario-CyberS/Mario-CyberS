@@ -19,12 +19,12 @@ My journey in computer science has led me to develop a strong foundation in cybe
 
 | Skill                                         | Associations         |
 |-----------------------------------------------|----------------------------|
-| Operating Systems (CLI Proficiency) | Mac - Windows - Linux - AlmaLinux - RHEL - CentOS - Debian - Ubuntu - Kali
+| Operating Systems (CLI Proficiency) | Mac - Windows - Linux - AlmaLinux - RHEL - CentOS - Debian - Ubuntu - Kali|
 | Programming & Scripting | Bash - Expect - C++ - C - Python - Java - JavaScript - Markdown|
-| Monitoring & Security Tools | Zabbix - SNMP - Cradlepoints - Wazuh - Rancid - Suricata - ClamAV - Splunk|
+| Monitoring & Security Tools | Zabbix - SNMP - Cradlepoints - Wazuh - Rancid - Suricata - ClamAV - Splunk - Syslog|
 | Hypervisors/Virtualization & VMs Deployment/Configuration| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VirtualBox - Azure|
 | Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
-| SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM|
+| SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Index tuning - RBAC - Syslog ingestion|
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs and navigating the web interface|
 | Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for Log Rotation & ASA Config Backup using Rancid|
 | Text Editors | VI, Nano|
