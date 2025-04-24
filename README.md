@@ -56,7 +56,7 @@ My journey in computer science has led me to develop a strong foundation in cybe
 
 ### CLOUD
 <div>
-    <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure-Sentinel&logoColor=white" />
 </div>
 
 
