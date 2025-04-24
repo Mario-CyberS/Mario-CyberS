@@ -15,6 +15,9 @@ My journey in computer science has led me to develop a strong foundation in cybe
 ### 🔹 [Deploying Wazuh SIEM](https://github.com/Mario-CyberS/Deploying-Wazuh-SIEM)  
 **Description:** This project demonstrates the step-by-step process of setting up a **Wazuh SIEM Manager** on an **AlmaLinux VM** using **VMware Workstation 17**. It includes installing Almalinux 9.5 minimal iso, installing VMware workstation, deploying Alma VM, installing Wazuh, and accessing the Wazuh Web UI for real-time security monitoring.
 
+### 🔹 [Syslog Wazuh Configuration](https://github.com/Mario-CyberS/Syslog-Wazuh-Configuration)
+**Description:** This project details how to configure Wazuh SIEM and rsyslog on a RHEL-based system to ingest syslog data from a Cisco ASA firewall. It covers editing the Wazuh ossec.conf, creating a dedicated log file, adjusting rsyslog rules, and verifying log ingestion for real-time network traffic monitoring.
+
 ## 📚 Skills
 
 | Skill                                         | Associations         |
