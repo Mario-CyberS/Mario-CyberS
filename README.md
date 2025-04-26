@@ -19,7 +19,7 @@ Alongside my property inspection career, I have kept a deep passion for technolo
   - Developed scripting tools to automate common SOC tasks and improve operational efficiency.
   - Exposure to CJIS compliance standards and government cybersecurity practices.
  
- **Licensed Home Inspector** – Tallahassee, Florida  
+ **Licensed Home Inspector** – Tampa/Tallahassee, Florida  
   *(2018 – Present)*  
   - Conducted comprehensive residential and commercial inspections, authored detailed technical reports, and maintained customer-facing leadership roles.
   - Balanced field work with academic studies at Florida State University.
