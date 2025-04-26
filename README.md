@@ -11,18 +11,20 @@ Alongside my property inspection career, I have kept a deep passion for technolo
 - Bachelor’s Degree – Computer Science, Cyber Criminology (Graduation: May 2025)
 
 ## 💼 Experience
--**Jr. Cybersecurity Analyst Intern** – Diverse Computing, Inc.  
+**Jr. Cybersecurity Analyst Intern** – Diverse Computing, Inc.  
   *(May 2024 – April 2025)*  
   - Hands-on experience with installing/deploying single node Wazuh SIEM servers
   - Gained hands-on experience with security event monitoring, endpoint management, and log analysis.
   - Assisted in SIEM configurations, vulnerability assessments, and incident investigations.
   - Developed scripting tools to automate common SOC tasks and improve operational efficiency.
   - Exposure to CJIS compliance standards and government cybersecurity practices.
-- **Licensed Home Inspector** – Tallahassee, Florida  
+ 
+ **Licensed Home Inspector** – Tallahassee, Florida  
   *(2018 – Present)*  
   - Conducted comprehensive residential and commercial inspections, authored detailed technical reports, and maintained customer-facing leadership roles.
   - Balanced field work with academic studies at Florida State University.
-- **Cybersecurity Homelab Projects**  
+ 
+ **Cybersecurity Homelab Projects**  
   - Deployed Wazuh SIEM for endpoint and network security monitoring.
   - Configured rsyslog, syslog ingestion, and log rotation for firewall logs.
   - Designed backup automation using Bash, Expect, and Rancid tools for Cisco ASA configurations.
