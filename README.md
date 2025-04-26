@@ -1,11 +1,18 @@
 # Mario-Cyber
  My Portfolio
-# Hello, I'm Mario
+# Hello, I'm Mario Tagaras
 <a href="https://www.linkedin.com/in/mario-t-5513b02b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I began my professional journey at the age of 14 as an apprentice home inspector, developing my expertise in residential and commercial property inspection. After securing my home inspector's license, I became a lead inspector with one of the top inspection companies in Tallahassee, Florida, while also pursuing my studies at Florida State University (FSU).
 
 Alongside my property inspection career, I have kept a deep passion for technology, particularly computer systems related to cyber security analysis, engineering, and penetration testing. I have dedicated myself to mastering the navigation and configuration of numerous operating systems, to continuously expand my skill set, and to never finish learning. My current goal is to transition into a cyber security focused role, specifically as a Tier 1 Cyber Security Engineer/Analyst, where I can apply my knowledge and contribute to the fast pace security industry. As well as my studies, I currently use most of my time working as a FL licensed Home Inspector and as a Jr Cyber Security Analyst with Diverse Computing, Inc. I have been with Diverse Computing, Inc. for a year during my last year as an FSU student, learning what it means to be a Cyber Security Specialist. I have immensly grown in experience and knowledge during my time with DCI, and I am greatful for it. My time as an intern has come to an end and I am now on the pursuit for an entry level job in the Cyber sector. I am currently studying for the CompTIA Security+ certificate to launch off my certificate collection journey, along side my continuous retention of up-to-date cyber news.
+
+## 💼 Experience
+- 1 year internship at Diverse Computing, Inc. as a JR Cyber Security Analyst.
+- Homelab projects that include things like SIEM, cyber security tools, & Virtual Machine creation and maintenance.
+
+## 📜 Certificates 
+- In progress of studying for CompTIA Security+
 
 ## 🎯 Objective
 My journey in computer science has led me to develop a strong foundation in cyber security. I am actively seeking opportunities to work in a cyber department environment as a Tier 1 Cyber Security Analyst/Engineer, where I can leverage my skills in security monitoring, incident response, and automation to help protect organizations from cyber threats.
@@ -77,5 +84,6 @@ My journey in computer science has led me to develop a strong foundation in cybe
 <div>
     <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Azure_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 </div>
+
 
 
