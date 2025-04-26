@@ -7,12 +7,30 @@ I began my professional journey at the age of 14 as an apprentice home inspector
 
 Alongside my property inspection career, I have kept a deep passion for technology, particularly computer systems related to cyber security analysis, engineering, and penetration testing. I have dedicated myself to mastering the navigation and configuration of numerous operating systems, to continuously expand my skill set, and to never finish learning. My current goal is to transition into a cyber security focused role, specifically as a Tier 1 Cyber Security Engineer/Analyst, where I can apply my knowledge and contribute to the fast pace security industry. As well as my studies, I currently use most of my time working as a FL licensed Home Inspector and as a Jr Cyber Security Analyst with Diverse Computing, Inc. I have been with Diverse Computing, Inc. for a year during my last year as an FSU student, learning what it means to be a Cyber Security Specialist. I have immensly grown in experience and knowledge during my time with DCI, and I am greatful for it. My time as an intern has come to an end and I am now on the pursuit for an entry level job in the Cyber sector. I am currently studying for the CompTIA Security+ certificate to launch off my certificate collection journey, along side my continuous retention of up-to-date cyber news.
 
+## 🏫 Education  
+- Bachelor’s Degree – Computer Science, Cyber Criminology (Graduation: May 2025)
+
 ## 💼 Experience
-- 1 year internship at Diverse Computing, Inc. as a JR Cyber Security Analyst.
-- Homelab projects that include things like SIEM, cyber security tools, & Virtual Machine creation and maintenance.
+-**Jr. Cybersecurity Analyst Intern** – Diverse Computing, Inc.  
+  *(May 2024 – April 2025)*  
+  - Hands-on experience with installing/deploying single node Wazuh SIEM servers
+  - Gained hands-on experience with security event monitoring, endpoint management, and log analysis.
+  - Assisted in SIEM configurations, vulnerability assessments, and incident investigations.
+  - Developed scripting tools to automate common SOC tasks and improve operational efficiency.
+  - Exposure to CJIS compliance standards and government cybersecurity practices.
+- **Licensed Home Inspector** – Tallahassee, Florida  
+  *(2018 – Present)*  
+  - Conducted comprehensive residential and commercial inspections, authored detailed technical reports, and maintained customer-facing leadership roles.
+  - Balanced field work with academic studies at Florida State University.
+- **Cybersecurity Homelab Projects**  
+  - Deployed Wazuh SIEM for endpoint and network security monitoring.
+  - Configured rsyslog, syslog ingestion, and log rotation for firewall logs.
+  - Designed backup automation using Bash, Expect, and Rancid tools for Cisco ASA configurations.
+  - My projects are listed below ⬇︎
 
 ## 📜 Certificates 
-- In progress of studying for CompTIA Security+
+- CompTIA Security+ (In Progress..)
+- Target Certification Date: June 2025
 
 ## 🎯 Objective
 My journey in computer science has led me to develop a strong foundation in cyber security. I am actively seeking opportunities to work in a cyber department environment as a Tier 1 Cyber Security Analyst/Engineer, where I can leverage my skills in security monitoring, incident response, and automation to help protect organizations from cyber threats.
