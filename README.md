@@ -121,5 +121,8 @@ This project documents the integration of Wazuh with Slack via Incoming Webhooks
     <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Azure_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 </div>
 
+---
+
+📄 [Download My Résumé (PDF)](https://github.com/Mario-CyberS/Mario-CyberS/raw/main/Mario_Tagaras_Resume.pdf)
 
 
