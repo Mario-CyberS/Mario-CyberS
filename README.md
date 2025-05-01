@@ -29,6 +29,7 @@ Alongside my property inspection career, I have kept a deep passion for technolo
   - Deployed Wazuh SIEM for endpoint and network security monitoring.
   - Configured rsyslog, syslog ingestion, and log rotation for firewall logs.
   - Designed backup automation using Bash, Expect, and Rancid tools for Cisco ASA configurations.
+  - TailScale Virtual Private Network Set-up
   - My projects are listed below ⬇︎
 
 ## 📜 Certificates 
