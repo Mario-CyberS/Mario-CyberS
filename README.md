@@ -83,7 +83,7 @@ This project documents the integration of Wazuh with Slack via Incoming Webhooks
 | Hypervisors/Virtualization & VMs Deployment/Configuration| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VirtualBox - Azure|
 | Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
 | SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Index tuning - RBAC - Syslog ingestion|
-| Security Log Analysis & Incident Response | Monitoring Wazuh logs and navigating the web interface|
+| Security Log Analysis & Incident Response | Monitoring Wazuh logs, navigating the web interface, configuring Slack for Alerts|
 | Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for Log Rotation & ASA Config Backup using Rancid|
 | Text Editors | VI, Nano|
 | Networking | TailScale, Cisco |
