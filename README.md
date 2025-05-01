@@ -93,6 +93,7 @@ My journey in computer science has led me to develop a strong foundation in cybe
     <a href="https://suricata.io/download/" target="_blank"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <a href="https://nmap.org/download.html" target="_blank"><img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge&logo=nmap&logoColor=white" />
     <a href="https://shrubbery.net/rancid/" target="_blank"><img src="https://img.shields.io/badge/-Rancid-800000?&style=for-the-badge&logoColor=white" />
+    <a href="https://tailscale.com/" target="_blank"><img src="https://img.shields.io/badge/-Tailscale-005AE0?&style=for-the-badge&logo=Tailscale&logoColor=white" />
 
 </div>
 
