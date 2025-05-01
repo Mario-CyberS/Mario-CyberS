@@ -86,7 +86,7 @@ This project documents the integration of Wazuh with Slack via Incoming Webhooks
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs, navigating the web interface, configuring Slack/email for Alerts|
 | Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for Log Rotation & ASA Config Backup using Rancid|
 | Text Editors | VI, Nano|
-| Networking | TailScale, Cisco |
+| Networking Tools | TailScale, Cisco |
 
 ## 🛠️ Primary Tools
 
