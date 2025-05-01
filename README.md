@@ -123,6 +123,6 @@ This project documents the integration of Wazuh with Slack via Incoming Webhooks
 
 ---
 
-## MY RESUME: [Download My Résumé (PDF)](https://github.com/Mario-CyberS/Mario-CyberS/raw/main/Mario_Tagaras_Resume.pdf)
+## Download [My Résumé (PDF)](https://github.com/Mario-CyberS/Mario-CyberS/raw/main/Mario_Tagaras_Resume.pdf)
 
 
