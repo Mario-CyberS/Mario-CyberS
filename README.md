@@ -31,12 +31,12 @@ My current goal is to transition into a cyber security focused role, specificall
   - Deployed Wazuh SIEM for endpoint and network security monitoring.
   - Configured rsyslog, syslog ingestion, and log rotation for firewall logs.
   - Designed backup automation using Bash, Expect, and Rancid tools for Cisco ASA configurations.
-  - TailScale Virtual Private Network Set-up
+  - TailScale Virtual Private Network Set-up, Wake-on-LAN, RDP, Pi as Firewall/NAT, etc.
   - My projects are listed below ⬇︎
 
 ## 📜 Certificates 
 - CompTIA Security+ (In Progress..)
-- Target Certification Date: June 2025
+- Target Sec+ Certification Date: June 2025
 
 ## 🎯 Objective
 My journey in computer science has led me to develop a strong foundation in cyber security. I am actively seeking opportunities to work in a cyber department environment as a Tier 1 Cyber Security Analyst/Engineer, where I can leverage my skills in security monitoring, incident response, and automation to help protect organizations from cyber threats.
