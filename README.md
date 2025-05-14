@@ -19,7 +19,7 @@ My current goal is to transition into a cyber security focused role, specificall
   - Hands-on experience with installing/deploying single node Wazuh SIEM servers
   - Gained hands-on experience with security event monitoring, endpoint management, and log analysis.
   - Partnered in SIEM configurations, vulnerability assessments, and incident investigations.
-  - Developed scripting tools to automate common SOC tasks and improve operational efficiency.
+  - Developed scrips to automate common SOC tasks and improve operational efficiency.
   - Exposure to CJIS compliance standards and government cybersecurity practices.
  
  **Licensed Home Inspector** – Tampa/Tallahassee, Florida  
