@@ -20,7 +20,7 @@ My current goal is to transition into a cyber security focused role, specificall
   - Gained hands-on experience with security event monitoring, endpoint management, and log analysis.
   - Partnered in SIEM configurations, vulnerability assessments, and incident investigations.
   - Developed scripts to automate common SOC tasks and improve operational efficiency.
-  - Exposure to CJIS compliance standards and government cybersecurity practices.
+  - Deep exposure to CJIS compliance standards and government cybersecurity practices.
  
  **Licensed Home Inspector** – Tampa/Tallahassee, Florida  
   *(2018 – Present)*  
