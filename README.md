@@ -18,7 +18,7 @@ My current goal is to transition into a cyber security focused role, specificall
   *(May 2024 – April 2025)*  
   - Hands-on experience with installing/deploying single node Wazuh SIEM servers
   - Gained hands-on experience with security event monitoring, endpoint management, and log analysis.
-  - Assisted in SIEM configurations, vulnerability assessments, and incident investigations.
+  - Managed SIEM configurations, vulnerability assessments, and incident investigations.
   - Developed scripting tools to automate common SOC tasks and improve operational efficiency.
   - Exposure to CJIS compliance standards and government cybersecurity practices.
  
