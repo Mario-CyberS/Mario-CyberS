@@ -3,18 +3,18 @@
 # Hello, I'm Mario Tagaras
 <a href="https://www.linkedin.com/in/mario-t-5513b02b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I began my professional journey at the age of 14 as an apprentice home inspector, developing my expertise in residential and commercial property inspection. After securing my home inspector's license, I became a lead inspector with one of the top inspection companies in Tallahassee, Florida, while also pursuing my studies at Florida State University (FSU).
+Cybersecurity enthusiast with hands-on experience in SIEM deployment/configuration, scripting, and network hardening. I spent a year as a Jr Cybersecurity Analyst at Diverse Computing, Inc., where I deployed and tuned Wazuh SIEM servers, automated ASA firewall backups using Python/Bash scripts, and worked with tools like Zabbix for monitoring and alerting.
 
-Alongside my property inspection career, I have kept a deep passion for technology, particularly computer systems related to cyber security analysis, engineering, and penetration testing. I have dedicated myself to mastering the navigation and configuration of numerous operating systems, to continuously expand my skill set, and to never finish learning. 
+I also run a homelab where I build secure networking environments using Raspberry Pi, Tailscale, Mullvad exit node, and firewall/NAT setups. One of my key projects is the Automated Cyberscan Orchestrator, a collaborative design with a co-developer to automate bug bounty reconnaissance. It uses Python to scrape for bounty targets, routes findings through an LLM for context-aware tool selection, and safely executes recon tools; laying the groundwork for scalable, automated vulnerability workflows.
 
-My current goal is to transition into a cyber security focused role, specifically as a Tier 1 Cyber Security Engineer/Analyst, where I can apply my knowledge and contribute to the fast pace security industry. As well as my studies, I currently use most of my time working as a FL licensed Home Inspector and as a Jr Cyber Security Analyst with Diverse Computing, Inc. I have been with Diverse Computing, Inc. for a year during my last year as an FSU student, learning what it means to be a Cyber Security Specialist. I have immensly grown in experience and knowledge during my time with DCI, and I am greatful for it. My time as an intern has come to an end and I am now on the pursuit for an entry level job in the Cyber sector. I am currently studying for the CompTIA Security+ certificate to launch off my certificate collection journey, along side my continuous retention of up-to-date cyber news.
+Currently studying for CompTIA Security+ and actively looking for an entry-level role as a Tier 1 SOC Analyst or Security Engineer. I’m passionate about security automation, threat detection, and applying real-world best practices. This would include CISA’s SIEM/SOAR guidelines for proper implementation and use.
 
 ## 🏫 Education  
 **Florida State University (FSU)**  
 - Bachelor’s Degree – Computer Science, Cyber Criminology (Graduation: May 2025)
 
 ## 💼 Experience
-**Jr. Cybersecurity Analyst Intern** – Diverse Computing, Inc.  
+**Cybersecurity Analyst Intern** – Diverse Computing, Inc.  
   *(May 2024 – April 2025)*  
   - Hands-on experience with installing/deploying single node Wazuh SIEM servers
   - Gained hands-on experience with security event monitoring, endpoint management, and log analysis.
@@ -28,6 +28,7 @@ My current goal is to transition into a cyber security focused role, specificall
   - Balanced field work with academic studies at Florida State University.
  
  **Cybersecurity Homelab Projects**  
+  - Collaborative project (Automated Cyberscan Orchestrator) that scrapes bug bountie programs and automates the cyber flows for vulnerability discovery.
   - Deployed Wazuh SIEM for endpoint and network security monitoring.
   - Configured rsyslog, syslog ingestion, and log rotation for firewall logs.
   - Designed backup automation using Bash, Expect, and Rancid tools for Cisco ASA configurations.
@@ -39,7 +40,7 @@ My current goal is to transition into a cyber security focused role, specificall
 - Target Sec+ Certification Date: June 2025
 
 ## 🎯 Objective
-My journey in computer science has led me to develop a strong foundation in cyber security. I am actively seeking opportunities to work in a cyber department environment as a Tier 1 Cyber Security Analyst/Engineer, where I can leverage my skills in security monitoring, incident response, and automation to help protect organizations from cyber threats.
+I'm a cybersecurity-focused professional with hands-on experience in SIEM deployment, security automation, and incident response. I'm actively seeking a Tier 1 Cybersecurity Analyst or Engineer role where I can apply my skills in monitoring, scripting, and system hardening to support detection and response efforts. My goal is to contribute to a fast-paced security team while continuing to build on my understanding of SIEM and SOAR best practices, including those outlined in CISA’s implementation guidelines.
 
 ## 🚀 Projects  
 
