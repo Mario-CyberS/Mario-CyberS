@@ -33,7 +33,7 @@ Currently studying for CompTIA Security+ and actively looking for an entry-level
 - Target Sec+ Certification Date: June 2025
 
 ## 🎯 Objective
-I'm a cybersecurity-focused professional with hands-on experience in SIEM deployment, security automation, and incident response. I'm actively seeking a Tier 1 Cybersecurity Analyst or Engineer role where I can apply my skills in monitoring, scripting, and system hardening to support detection and response efforts. My goal is to contribute to a fast-paced security team while continuing to build on my understanding of SIEM and SOAR best practices, including those outlined in CISA’s implementation guidelines.
+I'm a cybersecurity-focused professional with hands-on experience in SIEM deployment, security automation, and incident detection/response. I'm actively seeking a entry-level Cybersecurity role where I can apply my skills in proactive/automated monitoring, scripting, and system hardening to support detection and response efforts. My goal is to contribute to a fast-paced security team while continuing to build on my understanding of SIEM and SOAR best practices.
 
 ## 🚀 Projects  
 
