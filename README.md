@@ -5,7 +5,7 @@ Cybersecurity enthusiast with hands-on experience in SIEM deployment/configurati
 
 I also run a homelab where I build secure networking environments using Raspberry Pi, Tailscale, Mullvad exit node, and firewall/NAT setups. One of my key projects is the Automated Cyberscan Orchestrator, a collaborative design with a co-developer to automate bug bounty reconnaissance. It uses Python to scrape for bounty targets, routes findings through an LLM for context-aware tool selection, and safely executes recon tools; laying the groundwork for scalable, automated vulnerability workflows.
 
-Currently studying for CompTIA Security+ and actively looking for an entry-level role as a Tier 1 SOC Analyst or Security Engineer. I’m passionate about security automation, threat detection, and applying real-world best practices. This would include CISA’s SIEM/SOAR guidelines for proper implementation and use.
+Currently studying for CompTIA Security+ and actively looking for an entry-level role as an SOC Analyst or Cyber Security Analyst. I’m passionate about cyber security monitoring/scanning automation, threat detection & response, and regulation compliance. This would include CISA’s SIEM/SOAR guidelines for proper implementation and use, alongside compliance with government regulations like NIST 800-171, HIPPA, PCI DSS, FERPA, GDPR, etc. 
 
 ## 🏫 Education  
 **Florida State University (FSU)**  
