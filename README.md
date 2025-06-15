@@ -20,11 +20,6 @@ Currently studying for CompTIA Security+ and actively looking for an entry-level
   - Developed scripts to automate common SOC tasks and improve operational efficiency.
   - Deep exposure to CJIS compliance standards and government cybersecurity practices.
  
- **Licensed Home Inspector** – Tampa/Tallahassee, Florida  
-  *(2018 – Present)*  
-  - Conducted comprehensive residential and commercial inspections, authored detailed technical reports, and maintained customer-facing leadership roles.
-  - Balanced field work with academic studies at Florida State University.
- 
  **Cybersecurity Homelab Projects**  
   - Collaborative project (Automated Cyberscan Orchestrator) that scrapes bug bountie programs and automates the cyber flows for vulnerability discovery.
   - Deployed Wazuh SIEM for endpoint and network security monitoring.
