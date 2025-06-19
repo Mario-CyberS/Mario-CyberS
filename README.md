@@ -29,8 +29,8 @@ Currently studying for CompTIA Security+ and actively looking for an entry-level
   - My projects are listed below ⬇︎
 
 ## 📜 Certificates 
-- CompTIA Security+ (In Progress..)
-- Target Sec+ Certification Date: June 2025
+- CompTIA Security+ SY0-701
+- Sec+ Certification Date: June 19, 2025
 
 ## 🎯 Objective
 I'm a cybersecurity-focused professional with hands-on experience in SIEM deployment, security automation, and incident detection/response. I'm actively seeking a entry-level Cybersecurity role where I can apply my skills in proactive/automated monitoring, scripting, and system hardening to support detection and response efforts. My goal is to contribute to a fast-paced security team while continuing to build on my understanding of SIEM and SOAR best practices.
