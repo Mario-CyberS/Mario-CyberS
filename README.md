@@ -1,5 +1,5 @@
 # Hello, I'm Mario Tagaras
-<a href="https://www.linkedin.com/in/mario-t-5513b02b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mario-gt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity enthusiast with hands-on experience in SIEM deployment/configuration, scripting, and network hardening. I spent a year as a Cybersecurity Analyst Intern at Diverse Computing, Inc., where I deployed and tuned Wazuh SIEM servers, automated ASA firewall backups using Python/Bash scripts, and worked with tools like Zabbix for monitoring and alerting.
 
