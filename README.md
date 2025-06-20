@@ -101,9 +101,9 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
 | Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
 | SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Index tuning - RBAC - Syslog ingestion|
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs, navigating the web interface, configuring Slack/email for Alerts|
-| Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for Log Rotation & ASA Config Backup using Rancid|
-| Text Editors | VI, Nano|
-| Networking Tools | TailScale, Cisco |
+| Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for Log Rotation & ASA Config Backups using Rancid|
+| Networking Tools | TailScale VPN, Cisco, Suricata IPS/IDS, MullVad Exit Node, Nmap, Rancid, Firewall Rules List |
+| Text Editors | VI, Nano, Windows Note Pad|
 
 ## 🛠️ Tools
 
