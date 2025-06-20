@@ -105,7 +105,7 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
 | Text Editors | VI, Nano|
 | Networking Tools | TailScale, Cisco |
 
-## 🛠️ Primary Tools
+## 🛠️ Tools
 
 ### Network
 <div>
