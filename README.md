@@ -115,9 +115,8 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
     <a href="https://nmap.org/download.html" target="_blank"><img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge&logo=nmap&logoColor=white" />
     <a href="https://shrubbery.net/rancid/" target="_blank"><img src="https://img.shields.io/badge/-Rancid-800000?&style=for-the-badge&logoColor=white" />
     <a href="https://tailscale.com/" target="_blank"><img src="https://img.shields.io/badge/-Tailscale-005AE0?&style=for-the-badge&logo=Tailscale&logoColor=white" />
-    <a href="https://mullvad.net/en/vpn" target="_blank"><img src="https://img.shields.io/badge/-Mullvad%20Exit%20Node-FFCC00&style=forthebadge&logo=Mullvad&logoColor=000000" />
+    <a href="https://mullvad.net/en/vpn" target="_blank"><img src="https://img.shields.io/badge/-Mullvad%20Exit%20Node-FFCC00?&style=for-the-badge&logo=Mullvad&logoColor=000000" />
     <a href="https://linux.die.net/man/8/iptables" target="_blank"><img src="https://img.shields.io/badge/-iptables-4B8BBE?style=for-the-badge&logo=linux&logoColor=white" />
-</a>
 
 </div>
 
