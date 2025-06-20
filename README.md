@@ -31,6 +31,7 @@ Currently studying for CompTIA Security+ and actively looking for an entry-level
 ## 📜 Certificates 
 - CompTIA Security+ SY0-701
 - Sec+ Certification Date: June 19, 2025
+
 ![CompTIA-Security-Plus-Logo](https://github.com/user-attachments/assets/6ec12885-d3a9-4eb0-bb59-36a0e5bdea13)
 
 
