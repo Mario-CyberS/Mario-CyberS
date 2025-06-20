@@ -1,7 +1,7 @@
 # Hello, I'm Mario Tagaras
 <a href="https://www.linkedin.com/in/mario-gt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity enthusiast with hands-on experience in SIEM deployment/configuration, scripting, and network hardening. I spent a year as a Cybersecurity Analyst Intern at Diverse Computing, Inc., where I deployed and tuned Wazuh SIEM servers, automated ASA firewall backups using Python/Bash scripts, and worked with tools like Zabbix for monitoring and alerting.
+Cybersecurity enthusiast with hands-on experience in SIEM deployment/configuration, scripting, and network hardening. I spent a year as a Cybersecurity Analyst Intern at Diverse Computing, Inc., where I deployed and tuned Wazuh SIEM open-source servers, automated ASA firewall backups using Python/Bash scripts, and worked with tools like Zabbix for monitoring and alerting.
 
 I also run a homelab where I build secure networking environments using Raspberry Pi, Tailscale, Mullvad exit node, and firewall/NAT setups. One of my key projects is the Automated Cyberscan Orchestrator, a collaborative design with a co-developer to automate bug bounty reconnaissance. It uses Python to scrape for bounty targets, routes findings through an LLM for context-aware tool selection, and safely executes recon tools; laying the groundwork for scalable, automated vulnerability workflows.
 
