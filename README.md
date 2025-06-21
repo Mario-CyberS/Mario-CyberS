@@ -32,7 +32,7 @@ I am CompTIA Security+ SY0-701 certified and am currently studying for the CompT
 - CompTIA Security+ SY0-701
 - Sec+ Certification Date: June 19, 2025
 
-![CompTIA-Security-Plus-Logo-small](https://github.com/user-attachments/assets/019e7bfe-11cb-491d-9c5e-22cf334eaee3)
+![comptia-security-ce-certification](https://github.com/user-attachments/assets/f43ec605-86e0-4d77-abf2-60b1ae45e10f)
 
 ## 🎯 Objective
 I'm a cybersecurity-focused professional with hands-on experience in SIEM deployment, security automation, and incident detection/response. I'm actively seeking a entry-level Cybersecurity role where I can apply my skills in proactive/automated monitoring, scripting, and system hardening to support detection and response efforts. My goal is to contribute to a fast-paced security team while continuing to build on my understanding of SIEM and SOAR best practices.
