@@ -130,6 +130,9 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
     <a href="https://cilium.io/" target="_blank">
         <img src="https://img.shields.io/badge/-Cilium-272C34?&style=for-the-badge&logo=cilium&logoColor=white" />
     </a>
+    <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    </a>
 
 </div>
 
