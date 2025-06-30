@@ -7,7 +7,7 @@ I also continuously run a homelab where I build secure networking environments u
 
 I am CompTIA Security+ SY0-701 certified and am currently studying for the CompTIA CySA+ CS0-003 certification exam. I am actively hunting for an entry-level/Intern role as an SOC Analyst or Cyber Security Analyst/Engineer, or relevant roles. I am passionate about Cyber Security monitoring/detection/response, automated/manual work flows, and international regulation compliance. This would include CISA’s SIEM/SOAR guidelines for proper implementation and use, alongside compliance with government rules & regulations like NIST 800-171, HIPPA, PCI DSS, FERPA, GDPR, etc. 
 
-<!--- ## Download [My Resume (PDF)](https://github.com/Mario-CyberS/Mario-CyberS/raw/main/Mario_Tagaras_Resume.pdf) --->
+## Download [My Resume (PDF)](https://github.com/Mario-CyberS/Mario-CyberS/raw/main/Mario_Tagaras_Resume2025.pdf)
 
 ## 🏫 Education  
 **Florida State University (FSU)**  
