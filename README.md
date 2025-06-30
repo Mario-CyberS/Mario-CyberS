@@ -106,7 +106,7 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs - Navigating the web interface - Configuring Slack/email for Alerts - Threat Hunting - Incident escalation|
 | Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for ASA Config Backups using Rancid - Redundant Log Rotations|
 | Networking Tools | TailScale VPN - Cisco - Suricata IPS/IDS - MullVad Exit Node - Cradlepoints - Nmap - Rancid - Firewall Rules List - OpenSCAP - Cilium - Netcat|
-| Text Editors | VI, Nano, Windows Note Pad|
+| Text Editors | VI - Nano - Windows Note Pad|
 
 ## 🛠️ Tools
 
