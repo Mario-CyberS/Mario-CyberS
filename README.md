@@ -139,7 +139,7 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
 <div>
     <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Azure_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://img.shields.io/badge/-Amazon_Web_Services-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
     </a>
 </div>
 
