@@ -34,7 +34,7 @@ I am CompTIA Security+ SY0-701 certified and am currently studying for the CompT
 
 ![comptia-security-ce-certification](https://github.com/user-attachments/assets/f43ec605-86e0-4d77-abf2-60b1ae45e10f)
 
-- CompTIA CySa+ V3 In Progress...
+- CompTIA CySA+ V3 In Progress...
 
   
 ## 🎯 Objective
