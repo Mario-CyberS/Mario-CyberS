@@ -1,22 +1,24 @@
 # Hello, I'm Mario Tagaras
 <a href="https://www.linkedin.com/in/mario-gt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a driven Cyber Security enthusiast with hands-on professional experience in SIEM deployment/configuration, scripting, back-up automation, threat log analysis, network/endpoint hardening. I spent a year as a Cyber Security Analyst Intern at Diverse Computing, Inc., where I deployed and tuned Wazuh (open-source) SIEMs, on RHEL/Almalinux servers for centralized log aggregation, as well as threat detection/alerting. I also deployed numerous Wazuh agents across plenty of endpoints/devices for close agent-based monitoring looking for things like FIM, Configuration Assessment, & Threat Hunting. I've automated ASA firewall backups using Python/Bash scripts I wrote and hardened, for the Networking team to pull from when needed, along side working with tools like Zabbix for monitoring and automation disruption alerting.
+I am a driven Cyber Security enthusiast with hands-on professional experience in SIEM deployment/configuration, scripting, back-up automation, threat log analysis, and network/endpoint hardening. I spent a year as a Cyber Security Analyst Intern at Diverse Computing, Inc., where I deployed and tuned Wazuh (open-source) SIEMs, on RHEL/Almalinux servers for centralized log aggregation, as well as threat detection/alerting. I also deployed numerous Wazuh agents across plenty of endpoints/hosts for close agent-based monitoring looking for things like FIM, Configuration Assessment, & just general Threat Hunting. I've automated ASA firewall backups using Expect/Bash scripts I wrote and hardened; these were for the Networking team to pull from when needed and for investigation of unauthorized configuration changes. I also worked with tools like Zabbix for monitoring and automating script disruption alerting.
 
-I also continuously run a homelab where I build secure networking environments using Raspberry Pi as a firewall/NAT relay for my personal Windows desktop, Tailscale as a VPN for private device network, and Mullvad as a traffic exit node for my Pi. One of my key projects is the Automated Cyberscan Orchestrator, a collaborative design with a co-developer to automate bug bounty reconnaissance. It uses Python/Selenium/undetected-chromedriver to scrape for bounty targets from targeted bounty program sites, routes findings through an LLM for context-aware tool selection, and safely automates the execution of recon tools based on the given data and thought analysis, ending with a well organized automated report generation ready for review, with plans to implement a CMP server for proper workflow orchestration, this would lay the groundwork for scalable, automated/orchestrated vulnerability workflows.
+I also continuously run a homelab where I build secure networking environments using Raspberry Pi as a firewall/NAT relay for my personal Windows desktop, Tailscale as a VPN for private device network, and Mullvad as a traffic exit node for my Pi/PC. One of my key projects is the Automated Cyberscan Orchestrator, a collaborative design with a co-developer to automate bug bounty reconnaissance. It uses Python/Selenium/undetected-chromedriver to scrape for bounty targets from targeted bounty program sites, routes findings through an LLM for context-aware tool selection, and safely automates the execution of recon tools based on the given data and thought analysis, ending with a well organized automated report generated ready for review, with plans to implement a CMP server for proper workflow orchestration, this would lay the groundwork for scalable, automated/orchestrated vulnerability workflows.
 
-I am CompTIA Security+ SY0-701 certified and am currently studying for the CompTIA CySa+ CS0-003 certification exam. I am actively hunting for an entry-level role as an SOC Analyst or Cyber Security Analyst, or relevant roles. I am passionate about Cyber Security monitoring/detection/response automated/manual work flows, and international regulation compliance. This would include CISA’s SIEM/SOAR guidelines for proper implementation and use, alongside compliance with government regulations like NIST 800-171, HIPPA, PCI DSS, FERPA, GDPR, etc. 
+I am CompTIA Security+ SY0-701 certified and am currently studying for the CompTIA CySA+ CS0-003 certification exam. I am actively hunting for an entry-level/Intern role as an SOC Analyst or Cyber Security Analyst/Engineer, or relevant roles. I am passionate about Cyber Security monitoring/detection/response, automated/manual work flows, and international regulation compliance. This would include CISA’s SIEM/SOAR guidelines for proper implementation and use, alongside compliance with government rules & regulations like NIST 800-171, HIPPA, PCI DSS, FERPA, GDPR, etc. 
+
+<!--- ## Download [My Resume (PDF)](https://github.com/Mario-CyberS/Mario-CyberS/raw/main/Mario_Tagaras_Resume.pdf) --->
 
 ## 🏫 Education  
 **Florida State University (FSU)**  
 - Bachelor’s Degree – Computer Science, Cyber Criminology (Graduation: May 2025)
 
 ## 💼 Experience
-**Cybersecurity Analyst Intern** – Diverse Computing, Inc.  
+**Cyber Security Analyst Intern** – Diverse Computing, Inc.  
   *(May 2024 – April 2025)*  
   - Hands-on experience with installing/deploying single node Wazuh SIEM servers
   - Gained hands-on experience with security event monitoring, endpoint management, and log analysis.
-  - Partnered in SIEM configurations, vulnerability assessments, and incident investigations.
+  - Partnered in SIEM configurations, vulnerability assessments, and security incident investigations.
   - Developed scripts to automate common SOC tasks and improve operational efficiency.
   - Deep exposure to CJIS compliance standards and government cybersecurity practices.
  
@@ -37,11 +39,11 @@ I am CompTIA Security+ SY0-701 certified and am currently studying for the CompT
 
 ![comptia-security-ce-certification](https://github.com/user-attachments/assets/f43ec605-86e0-4d77-abf2-60b1ae45e10f)
 
-- CompTIA CySA+ V3 In Progress...
+- CompTIA CySA+ CS0-003 In Progress...
 
   
 ## 🎯 Objective
-I'm a cybersecurity-focused professional with hands-on experience in SIEM deployment, security automation, and incident detection/response. I'm actively seeking a entry-level Cybersecurity role where I can apply my skills in proactive/automated monitoring, scripting, and system hardening to support detection and response efforts. My goal is to contribute to a fast-paced security team while continuing to build on my understanding of SIEM and SOAR best practices.
+I'm a Cyber Security focused professional with hands on experience in SIEM deployment, security automation, and incident detection/response. I'm actively seeking an entry level/intern Cyber Security role where I can apply my skills in proactive/automated monitoring, scripting, and system/network hardening to support detection and response efforts. My goal is to contribute to a fast paced security team while forever continuing to build my knowledge on the evolving Cyber Security landscape and understanding of SIEM and SOAR best practices.
 
 ## 🚀 Projects  
 
@@ -105,7 +107,7 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
 | Monitoring & Security Tools | Zabbix - SNMP - Wazuh - Rancid - Suricata - ClamAV - Splunk - rsyslog - WireShark - Netstat - DockerBench - Prometheus|
 | Hypervisors/Virtualization/Containerization| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VSphere - VirtualBox - Azure - AWS - Docker - Kubernetes|
 | Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
-| SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Indexer tuning - RBAC - Syslog ingestion|
+| SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Indexer tuning - RBAC - Syslog ingestion - CIA - AAA - DAD - OWASP - MITRE ATT&CK|
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs - Navigating the web interface - Configuring Slack/email for Alerts - Threat Hunting - Incident escalation|
 | Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for ASA Config Backups using Rancid - Redundant Log Rotations|
 | Networking Tools | TailScale VPN - Cisco - Suricata IPS/IDS - MullVad Exit Node - Cradlepoints - Nmap - Rancid - Firewall Rules List - OpenSCAP - Cilium - Netcat|
@@ -145,6 +147,10 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
     <a href="https://prometheus.io/" target="_blank">
         <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=prometheus&logoColor=white" />
     </a>
+    <a href="https://attack.mitre.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-0053A0?&style=for-the-badge&logo=matrix&logoColor=white" />
+</a>
+
 </div>
 
 
