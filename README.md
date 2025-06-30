@@ -130,6 +130,25 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
     <a href="https://documentation.wazuh.com/current/quickstart.html" target="_blank"><img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <a href="https://www.splunk.com/en_us/download.html" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <a href="https://www.zabbix.com/download" target="_blank"><img src="https://img.shields.io/badge/-Zabbix-DC143C?&style=for-the-badge&logo=Zabbix&logoColor=white" />
+     <!-- Docker Bench -->
+    <a href="https://github.com/docker/docker-bench-security" target="_blank">
+        <img src="https://img.shields.io/badge/-DockerBench-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+
+    <!-- OpenSCAP -->
+    <a href="https://www.open-scap.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-OpenSCAP-EE0000?&style=for-the-badge&logo=redhat&logoColor=white" />
+    </a>
+
+    <!-- Prometheus -->
+    <a href="https://prometheus.io/" target="_blank">
+        <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=prometheus&logoColor=white" />
+    </a>
+
+    <!-- Cilium -->
+    <a href="https://cilium.io/" target="_blank">
+        <img src="https://img.shields.io/badge/-Cilium-272C34?&style=for-the-badge&logo=cilium&logoColor=white" />
+    </a>
 </div>
 
 
