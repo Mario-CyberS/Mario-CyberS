@@ -100,7 +100,7 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
 | Operating Systems (CLI Proficiency) | Mac - Windows - Linux - AlmaLinux - RHEL - CentOS - Debian - Ubuntu - Kali - Raspberry Pi|
 | Programming & Scripting | Bash - Expect - C++ - C - Python - Java - JavaScript - Markdown|
 | Monitoring & Security Tools | Zabbix - SNMP - Wazuh - Rancid - Suricata - ClamAV - Splunk - rsyslog - WireShark - Netstat - DockerBench - Prometheus|
-| Hypervisors/Virtualization/Containerization| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VirtualBox - Azure - Docker - Kubernetes|
+| Hypervisors/Virtualization/Containerization| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VSphere - VirtualBox - Azure - AWS - Docker - Kubernetes|
 | Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
 | SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Indexer tuning - RBAC - Syslog ingestion|
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs - Navigating the web interface - Configuring Slack/email for Alerts - Threat Hunting|
