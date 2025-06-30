@@ -140,6 +140,12 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
     <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Azure_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 </div>
 
+### HyperVisor
+<div>
+    <a href="https://www.vmware.com/" target="_blank"><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /></a>
+    <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /></a>
+</div>
+
 
 ### Containerization
 <div>
