@@ -30,7 +30,10 @@ I am CompTIA Security+ SY0-701 certified and am currently studying for the CompT
 
 ## 📜 Certificates 
 - CompTIA Security+ SY0-701
-- Sec+ Certification Date: June 19, 2025
+- Certification Date: June 19, 2025
+- Expiration Date: June 19, 2028
+- [Verify at CompTIA](http://verify.CompTIA.org)
+- Verify with: ZBXLEETQX1145Q42
 
 ![comptia-security-ce-certification](https://github.com/user-attachments/assets/f43ec605-86e0-4d77-abf2-60b1ae45e10f)
 
