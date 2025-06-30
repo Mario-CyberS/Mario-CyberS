@@ -119,6 +119,9 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 <div>   
     <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <a href="https://suricata.io/download/" target="_blank"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    </a>
     <a href="https://nmap.org/download.html" target="_blank"><img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge&logo=nmap&logoColor=white" />
     <a href="https://shrubbery.net/rancid/" target="_blank"><img src="https://img.shields.io/badge/-Rancid-800000?&style=for-the-badge&logoColor=white" />
     <a href="https://tailscale.com/" target="_blank"><img src="https://img.shields.io/badge/-Tailscale-005AE0?&style=for-the-badge&logo=Tailscale&logoColor=white" />
@@ -129,9 +132,6 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
     </a>
     <a href="https://cilium.io/" target="_blank">
         <img src="https://img.shields.io/badge/-Cilium-272C34?&style=for-the-badge&logo=cilium&logoColor=white" />
-    </a>
-    <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
     </a>
 
 </div>
