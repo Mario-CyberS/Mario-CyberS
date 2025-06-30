@@ -107,7 +107,7 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
 
 ## 🛠️ Tools
 
-### Network
+### Networking
 <div>   
     <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <a href="https://suricata.io/download/" target="_blank"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -135,9 +135,16 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
 </div>
 
 
-### CLOUD
+### Cloud
 <div>
     <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Azure_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
+
+
+### Containerization
+<div>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /></a>
+    <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" /></a>
 </div>
 
 ---
