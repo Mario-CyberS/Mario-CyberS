@@ -99,8 +99,8 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
 |-----------------------------------------------|----------------------------|
 | Operating Systems (CLI Proficiency) | Mac - Windows - Linux - AlmaLinux - RHEL - CentOS - Debian - Ubuntu - Kali - Raspberry Pi|
 | Programming & Scripting | Bash - Expect - C++ - C - Python - Java - JavaScript - Markdown|
-| Monitoring & Security Tools | Zabbix - SNMP - Cradlepoints - Wazuh - Rancid - Suricata - ClamAV - Splunk - rsyslog - WireShark - Netstat|
-| Hypervisors/Virtualization & VMs Deployment/Configuration| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VirtualBox - Azure|
+| Monitoring & Security Tools | Zabbix - SNMP - Cradlepoints - Wazuh - Rancid - Suricata - ClamAV - Splunk - rsyslog - WireShark - Netstat - DockerBench - Prometheus|
+| Hypervisors/Virtualization/Containerization| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VirtualBox - Azure - Docker - Kubernetes|
 | Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
 | SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Index tuning - RBAC - Syslog ingestion|
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs, navigating the web interface, configuring Slack/email for Alerts|
@@ -122,6 +122,9 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
     <a href="https://linux.die.net/man/1/nc" target="_blank">
         <img src="https://img.shields.io/badge/-Netcat-555555?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
     </a>
+    <a href="https://cilium.io/" target="_blank">
+        <img src="https://img.shields.io/badge/-Cilium-272C34?&style=for-the-badge&logo=cilium&logoColor=white" />
+    </a>
 
 </div>
 
@@ -138,9 +141,6 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
     </a>
     <a href="https://prometheus.io/" target="_blank">
         <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=prometheus&logoColor=white" />
-    </a>
-    <a href="https://cilium.io/" target="_blank">
-        <img src="https://img.shields.io/badge/-Cilium-272C34?&style=for-the-badge&logo=cilium&logoColor=white" />
     </a>
 </div>
 
