@@ -99,13 +99,13 @@ I'm a cybersecurity-focused professional with hands-on experience in SIEM deploy
 |-----------------------------------------------|----------------------------|
 | Operating Systems (CLI Proficiency) | Mac - Windows - Linux - AlmaLinux - RHEL - CentOS - Debian - Ubuntu - Kali - Raspberry Pi|
 | Programming & Scripting | Bash - Expect - C++ - C - Python - Java - JavaScript - Markdown|
-| Monitoring & Security Tools | Zabbix - SNMP - Cradlepoints - Wazuh - Rancid - Suricata - ClamAV - Splunk - rsyslog - WireShark - Netstat - DockerBench - Prometheus|
+| Monitoring & Security Tools | Zabbix - SNMP - Wazuh - Rancid - Suricata - ClamAV - Splunk - rsyslog - WireShark - Netstat - DockerBench - Prometheus|
 | Hypervisors/Virtualization/Containerization| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VirtualBox - Azure - Docker - Kubernetes|
 | Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
-| SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Index tuning - RBAC - Syslog ingestion|
-| Security Log Analysis & Incident Response | Monitoring Wazuh logs, navigating the web interface, configuring Slack/email for Alerts|
-| Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for Log Rotation & ASA Config Backups using Rancid|
-| Networking Tools | TailScale VPN, Cisco, Suricata IPS/IDS, MullVad Exit Node, Nmap, Rancid, Firewall Rules List |
+| SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Indexer tuning - RBAC - Syslog ingestion|
+| Security Log Analysis & Incident Response | Monitoring Wazuh logs - Navigating the web interface - Configuring Slack/email for Alerts - Threat Hunting|
+| Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for ASA Config Backups using Rancid - Redundant Log Rotations|
+| Networking Tools | TailScale VPN - Cisco - Suricata IPS/IDS - MullVad Exit Node - Cradlepoints - Nmap - Rancid - Firewall Rules List - OpenSCAP - Cilium - Netcat|
 | Text Editors | VI, Nano, Windows Note Pad|
 
 ## 🛠️ Tools
