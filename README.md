@@ -106,7 +106,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 | Programming & Scripting | Bash - Expect - C++ - C - Python - Java - JavaScript - Markdown|
 | Monitoring & Security Tools | Zabbix - Wazuh - Rancid - Suricata - ClamAV - Splunk - rsyslog - WireShark - Netstat - DockerBench - Prometheus|
 | Hypervisors/Virtualization/Containerization| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VSphere - VirtualBox - Azure - AWS - Docker - Kubernetes|
-| Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
+| Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh - Government Regulation Security Compliance|
 | SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Indexer tuning - RBAC - Syslog ingestion - CIA - AAA - DAD - OWASP - OSINT - MITRE ATT&CK|
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs - Navigating the web interface - Configuring Slack/email for Alerts - Threat Hunting - Incident escalation|
 | Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for ASA Config Backups using Rancid - Redundant Log Rotations|
