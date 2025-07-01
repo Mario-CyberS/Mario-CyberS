@@ -107,7 +107,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 | Monitoring & Security Tools | Zabbix - SNMP - Wazuh - Rancid - Suricata - ClamAV - Splunk - rsyslog - WireShark - Netstat - DockerBench - Prometheus|
 | Hypervisors/Virtualization/Containerization| Linode - Parallels - VMware Fusion Pro - VMware Workstation Pro - VSphere - VirtualBox - Azure - AWS - Docker - Kubernetes|
 | Security Operations & SIEM Management | Installing & Deploying Wazuh SIEM Manager & Agents - Integrating 3rd party apps into Wazuh|
-| SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Indexer tuning - RBAC - Syslog ingestion - CIA - AAA - DAD - OWASP - MITRE ATT&CK|
+| SIEM Configuration & Training | Training SysOps, Support, and Network Teams on Wazuh SIEM - ISM Policy configuration - Wazuh OpenSearch Indexer tuning - RBAC - Syslog ingestion - CIA - AAA - DAD - OWASP - OSINT - MITRE ATT&CK|
 | Security Log Analysis & Incident Response | Monitoring Wazuh logs - Navigating the web interface - Configuring Slack/email for Alerts - Threat Hunting - Incident escalation|
 | Automation & Scripting for Security Tasks | Writing & Automating Bash/Expect Scripts for ASA Config Backups using Rancid - Redundant Log Rotations|
 | Networking Tools | TailScale VPN - Cisco - Suricata IPS/IDS - MullVad Exit Node - Cradlepoints - Nmap - Rancid - Firewall Rules List - OpenSCAP - Cilium - Netcat|
