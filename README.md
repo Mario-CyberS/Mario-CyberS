@@ -179,7 +179,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 </div>
 
 
-### Containerization
+### Containerization/Orchestration
 <div>
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /></a>
     <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" /></a>
