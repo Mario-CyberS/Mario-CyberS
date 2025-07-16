@@ -100,7 +100,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 <details>
  <summary><strong>♦️ Automated Orchestration of Cyberscan Tools</strong></summary>
 
-#### [Automated Cyberscan Orchestrator](https://github.com/Mario-CyberS/Automated-Cyberscan-Orchestrator/edit/main/README.md)
+#### [Automated Cyberscan Orchestrator](https://github.com/Mario-CyberS/Automated-Cyberscan-Orchestrator/blob/main/README.md)
 **Description:** This project builds an automated framework for discovering and testing bug bounty targets by orchestrating scraping, AI-driven tool recommendations, recon scanning, and report generation. It leverages Python modules to extract bounty data, route it through an LLM for optimal tool selection, and safely run reconnaissance tools; laying the foundation for fully automated vulnerability reporting workflows. Future enhancements include the integration of a CMP (Command Management Platform) server to coordinate task dispatching, tool execution, and job tracking across distributed agents.
 </details>
 
