@@ -48,7 +48,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 ## 🚀 Projects  
 
 <details>
- <summary>🔷 Wazuh SIEM Project:</summary>
+ <summary>### 🔷 Wazuh SIEM Project:</summary>
 
 #### [Deploying Wazuh SIEM](https://github.com/Mario-CyberS/Deploying-Wazuh-SIEM/blob/main/README.md)  
 **Description:** This project demonstrates the step-by-step process of setting up a **Wazuh SIEM Manager** on a **RHEL VM** using **VMware Workstation 17**. It includes installing RHEL 9.5 minimal iso, installing VMware workstation, deploying RHEL VM, installing Wazuh, and accessing the Wazuh Web UI for real-time security monitoring.
