@@ -104,7 +104,13 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 **Description:** This project builds an automated framework for discovering and testing bug bounty targets by orchestrating scraping, AI-driven tool recommendations, recon scanning, and report generation. It leverages Python modules to extract bounty data, route it through an LLM for optimal tool selection, and safely run reconnaissance tools; laying the foundation for fully automated vulnerability reporting workflows. Future enhancements include the integration of a CMP (Command Management Platform) server to coordinate task dispatching, tool execution, and job tracking across distributed agents.
 </details>
 
+<details>
+  <summary><strong>🧪 Malware Analysis Set-Up</strong></summary>
 
+#### [REMnux Vbox VM Set-Up]()
+**Description:** This project documents how to import, configure, and optimize the REMnux Linux virtual machine in VirtualBox as part of an isolated malware analysis lab. REMnux acts as a reverse engineering and fake-internet endpoint, providing DNS, HTTP, and other simulated services via INetSim for behavioral malware analysis when paired with a Windows FLARE-VM. It includes display tuning, Guest Additions installation, and initial VM setup steps.
+
+</details>
 
 ## 📚 Skills
 
