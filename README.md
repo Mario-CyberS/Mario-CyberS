@@ -48,7 +48,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 ## 🚀 Projects  
 
 <details>
- <summary>🔷 Wazuh SIEM Project</summary>
+ <summary><strong>🔷 Wazuh SIEM Project</strong></summary>
 
 #### [Deploying Wazuh SIEM](https://github.com/Mario-CyberS/Deploying-Wazuh-SIEM/blob/main/README.md)  
 **Description:** This project demonstrates the step-by-step process of setting up a **Wazuh SIEM Manager** on a **RHEL VM** using **VMware Workstation 17**. It includes installing RHEL 9.5 minimal iso, installing VMware workstation, deploying RHEL VM, installing Wazuh, and accessing the Wazuh Web UI for real-time security monitoring.
@@ -85,7 +85,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 </details>
 
 <details>
- <summary>🔶 TailScale Private Network Set-up</summary>
+ <summary><strong>🔶 TailScale Private Network Set-up</strong></summary>
 
 #### [Tailscale RDP Setup From Mac To Windows](https://github.com/Mario-CyberS/Tailscale-RDP-Setup-From-Mac-to-Windows/blob/main/README.md)
 **Description:** This project documents the configuration and secure setup of **Remote Desktop Protocol (RDP)** access from a **MacBook** to a **Windows PC** using **Tailscale**, enabling private, encrypted access with no need for port-forwarding or static IPs.
@@ -98,11 +98,13 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 </details>
 
 <details>
- <summary>♦️ Automated Orchestration of Cyberscan Tools</summary>
+ <summary><strong>♦️ Automated Orchestration of Cyberscan Tools</strong></summary>
 
 #### [Automated Cyberscan Orchestrator](https://github.com/Mario-CyberS/Automated-Cyberscan-Orchestrator/edit/main/README.md)
 **Description:** This project builds an automated framework for discovering and testing bug bounty targets by orchestrating scraping, AI-driven tool recommendations, recon scanning, and report generation. It leverages Python modules to extract bounty data, route it through an LLM for optimal tool selection, and safely run reconnaissance tools; laying the foundation for fully automated vulnerability reporting workflows. Future enhancements include the integration of a CMP (Command Management Platform) server to coordinate task dispatching, tool execution, and job tracking across distributed agents.
 </details>
+
+
 
 ## 📚 Skills
 
