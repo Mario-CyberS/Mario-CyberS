@@ -107,7 +107,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 <details>
   <summary><strong>🧪 Malware Analysis Set-Up</strong></summary>
 
-#### [REMnux Vbox VM Set-Up]()
+#### [REMnux Vbox VM Set-Up](https://github.com/Mario-CyberS/REMnux-Vbox-VM-Set-Up/blob/main/README.md)
 **Description:** This project documents how to import, configure, and optimize the REMnux Linux virtual machine in VirtualBox as part of an isolated malware analysis lab. REMnux acts as a reverse engineering and fake-internet endpoint, providing DNS, HTTP, and other simulated services via INetSim for behavioral malware analysis when paired with a Windows FLARE-VM. It includes display tuning, Guest Additions installation, and initial VM setup steps.
 
 </details>
