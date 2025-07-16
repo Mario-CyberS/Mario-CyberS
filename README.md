@@ -47,7 +47,8 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 
 ## 🚀 Projects  
 
-### 🔷 Wazuh SIEM Project:
+<details>
+ <summary>🔷 Wazuh SIEM Project:</summary>
 
 #### [Deploying Wazuh SIEM](https://github.com/Mario-CyberS/Deploying-Wazuh-SIEM/blob/main/README.md)  
 **Description:** This project demonstrates the step-by-step process of setting up a **Wazuh SIEM Manager** on a **RHEL VM** using **VMware Workstation 17**. It includes installing RHEL 9.5 minimal iso, installing VMware workstation, deploying RHEL VM, installing Wazuh, and accessing the Wazuh Web UI for real-time security monitoring.
@@ -81,6 +82,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 
 #### [Wazuh Postfix Email Integration](https://github.com/Mario-CyberS/Wazuh-Postfix-Email-Integration/blob/main/README.md)
 **Description:** This project documents the integration of Wazuh with Postfix and a custom Python script to send real-time security alerts via Gmail SMTP, allowing structured, secure, and reliable email notifications directly from your SIEM server.
+</details>
 
 ### 🔶 TailScale Private Network Set-up:
 
