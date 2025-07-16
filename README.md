@@ -48,7 +48,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 ## 🚀 Projects  
 
 <details>
- <summary><strong>🛡️ Wazuh SIEM Project</strong></summary>
+ <summary><strong>🛡️ Wazuh SIEM Deployment & Configuration</strong></summary>
 
 #### [Deploying Wazuh SIEM](https://github.com/Mario-CyberS/Deploying-Wazuh-SIEM/blob/main/README.md)  
 **Description:** This project demonstrates the step-by-step process of setting up a **Wazuh SIEM Manager** on a **RHEL VM** using **VMware Workstation 17**. It includes installing RHEL 9.5 minimal iso, installing VMware workstation, deploying RHEL VM, installing Wazuh, and accessing the Wazuh Web UI for real-time security monitoring.
@@ -85,7 +85,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 </details>
 
 <details>
- <summary><strong>🌐 TailScale Private Network Set-up</strong></summary>
+ <summary><strong>🌐 TailScale Private Network Set-Up</strong></summary>
 
 #### [Tailscale RDP Setup From Mac To Windows](https://github.com/Mario-CyberS/Tailscale-RDP-Setup-From-Mac-to-Windows/blob/main/README.md)
 **Description:** This project documents the configuration and secure setup of **Remote Desktop Protocol (RDP)** access from a **MacBook** to a **Windows PC** using **Tailscale**, enabling private, encrypted access with no need for port-forwarding or static IPs.
