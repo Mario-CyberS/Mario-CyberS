@@ -113,6 +113,8 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 #### [Winodws FLARE Vbox VM Set-Up](https://github.com/Mario-CyberS/Windows-FLARE-Vbox-VM-Set-Up/blob/main/README.md)
 **Description:** This project walks through building a malware analysis VM using Windows 10 and the FLARE-VM toolkit inside VirtualBox. It includes downloading the ISO, disabling Microsoft Defender via Group Policy, installing Guest Additions, taking clean snapshots, and setting up FLARE-VM with PowerShell. The final result is a ready-to-use, snapshot-safe reverse engineering environment for dynamic malware analysis.
 
+#### [Malware Analysis Network Set-up](https://github.com/Mario-CyberS/Vbox-Malware-Network-Configuration/blob/main/README.md)
+**Description:** This project documents the configuration of a fully isolated malware analysis network using VirtualBox, where two VMs (FLARE-VM and REMnux) communicate safely without internet or host OS access. REMnux runs INetSim to simulate internet services for dynamic malware analysis.
 </details>
 
 ## 📚 Skills
