@@ -146,7 +146,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
     <a href="https://mullvad.net/en/vpn" target="_blank"><img src="https://img.shields.io/badge/-Mullvad%20Exit%20Node-FFCC00?&style=for-the-badge&logo=Mullvad&logoColor=000000" />
     <a href="https://linux.die.net/man/8/iptables" target="_blank"><img src="https://img.shields.io/badge/-iptables-4B8BBE?style=for-the-badge&logo=linux&logoColor=white" />
     <a href="https://linux.die.net/man/1/nc" target="_blank">
-        <img src="https://img.shields.io/badge/-Netcat-555555?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Netcat-red?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
     </a>
     <a href="https://cilium.io/" target="_blank">
         <img src="https://img.shields.io/badge/-Cilium-lightgreen?&style=for-the-badge&logo=cilium&logoColor=white" />
@@ -193,7 +193,7 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 
 ### HyperVisor
 <div>
-    <a href="https://www.vmware.com/" target="_blank"><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /></a>
+    <a href="https://www.vmware.com/" target="_blank"><img src="https://img.shields.io/badge/-VMware-orange?&style=for-the-badge&logo=VMware&logoColor=white" /></a>
     <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /></a>
 </div>
 
