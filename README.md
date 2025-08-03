@@ -46,7 +46,7 @@ I am CompTIA Security+ SY0-701 certified and am currently studying for the CompT
 I'm a Cyber Security focused professional with hands on experience in SIEM deployment, security automation, and incident detection/response. I'm actively seeking an entry level/intern Cyber Security role where I can apply my skills in proactive/automated monitoring, scripting, and system/network hardening to support detection and response efforts. My goal is to contribute to a fast paced security team while forever continuing to build my knowledge on the evolving Cyber Security landscape and understanding of SIEM and SOAR best practices.
 
 ## 🚀 Projects  
-
+Drop Down Menues ## ⬇️
 <details>
  <summary><strong>🛡️ Wazuh SIEM Deployment & Configuration</strong></summary>
 
