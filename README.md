@@ -30,7 +30,7 @@ I am CompTIA Security+ SY0-701 certified and am currently studying for the CompT
   - TailScale Virtual Private Network Set-up, Wake-on-LAN, RDP, Pi as Firewall/NAT, etc.
   - My projects are listed below ⬇︎
 
-## 📜 Certificates 
+## 📜 Certifications
 - **CompTIA Security+ SY0-701**
 - Certification Date: June 19, 2025
 - Expiration Date: June 19, 2028
