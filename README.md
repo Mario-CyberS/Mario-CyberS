@@ -7,8 +7,6 @@ I also maintain a homelab where I build secure networking environments, using a 
 
 I’m CompTIA Security+ (SY0-701) certified and currently preparing for the CompTIA CySA+ (CS0-003). I’m seeking entry-level opportunities as an SOC Analyst, Cyber Security Analyst/Engineer, or related role. My interests focus on monitoring, detection/response, workflow automation, and compliance with international regulations (NIST 800-171, HIPAA, PCI DSS, FERPA, GDPR, CJIS) and CISA’s SIEM/SOAR guidelines.
 
-## Download [My Resume (PDF)](https://github.com/Mario-CyberS/Mario-CyberS/raw/main/MarioTagaras_Resume2025.pdf)
-
 ## 🏫 Education  
 **Florida State University (FSU)**  
 - Bachelor’s Degree – Computer Science, Cyber Criminology (Graduation: May 2025)
