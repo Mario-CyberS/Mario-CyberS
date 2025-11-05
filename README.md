@@ -124,6 +124,9 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 #### [Phase 1 — Core Active Directory Deployment](https://github.com/Mario-CyberS/Phase-1-Core-Active-Directory-Deployment/blob/main/README.md)
 **Description:** This phase covers installing and configuring the **Active Directory Domain Services (AD DS)** role, promoting your Windows Server VM (`DC01`) to a Domain Controller, and setting up supporting infrastructure such as **DNS**, **DHCP**, and the base **OU structure**.
 
+#### [Phase 1 — Core Active Directory Deployment](https://github.com/Mario-CyberS/Phase-2-Workstation-Join-Identity/blob/main/README.md)
+**Description:** This phase covers adding user accounts, creating organizational security groups, provisioning a Windows 11 client VM, joining it to the Active Directory domain, and applying a baseline Group Policy Object (GPO) to enforce domain security standards.
+
 </details>
 
 
