@@ -118,9 +118,8 @@ I'm a Cyber Security focused professional with hands on experience in SIEM deplo
 <details>
   <summary><strong>👤 Active Directory-Domain Server</strong></summary>
 
-#### [Microsoft Server ADDS VM Install (DC01)](https://github.com/Mario-CyberS/Microsoft-Server-ADDS-VM-Install-(DC01)/blob/main/README.md)
+#### [Microsoft Server ADDS VM Install (DC01)](https://github.com/Mario-CyberS/Microsoft-Server-ADDS-VM-Install-DC01/blob/main/README.md)
 **Description:** This project documents how to deploy **Windows Server 2025** in VMware Workstation 17 Pro and prepare the VM for promotion to an Active Directory Domain Services (AD DS) Domain Controller (DC01). It covers ISO acquisition, VMware VM setup, ISO attachment, and installer configuration for the **Desktop Experience** environment.
-
 
 </details>
 
